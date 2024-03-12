@@ -8,7 +8,8 @@ Checkout the repository, then
 
 ```
 $ npm install
-$ npx playwright test --headed
+$ npm run test-android
+$ npm run test-ios
 ```
 
 This will run the tests in a browser.
